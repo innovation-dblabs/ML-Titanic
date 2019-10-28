@@ -23,7 +23,8 @@ On April 15, 1912, during her maiden voyage, the widely considered “unsinkable
 
 While there was some element of luck involved in surviving, it seems some groups of people were more likely to survive than others.  Lets take a closer look at the data and see if we can idenitfy reasons that might have given some people a higher chance of survival.
 '''
-DATA_URL="data/train.csv"
+# data files are in the same directory
+DATA_URL="train.csv"
 
 def load_data():
     data = pd.read_csv(DATA_URL)
