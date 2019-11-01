@@ -10,6 +10,6 @@ There are 2 files ( slightly different)
 
 ### Pre-requisites:
 - Python 3.6 Anaconda since it has most of the packages and Jupyter Notebook (https://www.anaconda.com/)
-- Streamlit for the web version of the Analysisn ( https://streamlit.io/ )
+- Streamlit for the web version of the analysis ( https://streamlit.io/ )
 
 Thanks to Kaggle, Wikipedia for the some of the materials.
