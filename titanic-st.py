@@ -19,7 +19,7 @@ import altair as alt
 # Python Image Library
 from PIL import Image
 
-st.header("Data Science on the Titanic --- SPoOoOOOOOkY")
+st.header("Data Science on the Titanic")
 
 
 st.write( "Note: Sections in light gray like the one below - show the Python code used for this app.")
